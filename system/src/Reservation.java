@@ -11,4 +11,5 @@ public class Reservation {
         this.cena_biletu = cena_biletu;
         flight.setLiczba_dostepnych_miejsc(flight.getLiczba_dostepnych_miejsc()-1);
     }
+
 }
